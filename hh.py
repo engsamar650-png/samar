@@ -1,9 +1,9 @@
-name = "Alice"
-age = 25
+name = "samar"
+age = 40
 print (name,"\n",age)
     
 #---------------------------
-age = 18
+age = 5
 if age >= 18:
     print("Adult")
 else:
@@ -21,7 +21,7 @@ while count < 5:
 #-----------------------------
 def greet(name):
     print("Hello", name)
-greet("Samar")
+greet("mahmoud")
 #-----------------------------
 fruits = ["apple", "banana", "cherry"]
 print(fruits[0])
