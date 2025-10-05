@@ -1,7 +1,7 @@
 name = "samar"
 age = 40
 print (name,"\n",age)
-    
+ print("hiiiiiiiiiiiiiiiii")   
 #---------------------------
 age = 5
 if age >= 18:
